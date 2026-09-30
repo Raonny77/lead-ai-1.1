@@ -36,3 +36,5 @@ npm run dev
 - **Dependências** com versões fixas; pacotes não usados removidos.
 
 Sessão é stateless: para invalidar todas as sessões, troque o `JWT_SECRET`.
+
+// atualização jwt
